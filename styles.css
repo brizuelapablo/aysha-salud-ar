@@ -3,7 +3,6 @@ body {
 }
 
 header {
-    background-image: url('/images/planeta.jpeg');
     background-size: cover;
     background-position: center;
     color: #FFF;
